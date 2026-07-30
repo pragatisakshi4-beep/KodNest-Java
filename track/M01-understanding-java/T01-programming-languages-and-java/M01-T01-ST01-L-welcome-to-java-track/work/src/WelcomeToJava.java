@@ -5,6 +5,8 @@ public class WelcomeToJava {
        System.out.println("I already known how to build  programing logic ");
        System.out.println("NOW i am learning java "); 
       System.err.println(" I will excited to be a part of kodnest ");
+      System.out.println("today i learn git hub and intellij");
+      System.out.println("now i will  push new project ");
 
 
 
