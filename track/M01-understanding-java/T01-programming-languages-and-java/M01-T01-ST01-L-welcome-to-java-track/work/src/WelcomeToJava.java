@@ -8,9 +8,5 @@ public class WelcomeToJava {
       System.out.println("today i learn git hub and intellij");
       System.out.println("now i will  push new project ");
 
-
-
-
-
     }
 }
