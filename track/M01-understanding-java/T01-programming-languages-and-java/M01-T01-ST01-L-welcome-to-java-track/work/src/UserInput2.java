@@ -29,7 +29,7 @@ public class UserInput2 {
     System.out.println("Double value is " + f);
 
     System.out.println("Enter Character value: ");
-    char g = scan.nextChar();
+    char g = scan.next().charAt(0);
     System.out.println("Character value is " + g);
 
     System.out.println("Enter boolean value: ");
