@@ -14,6 +14,8 @@ public class UserInput3 {
          System.out.println("Enter your full name: ");
          String fname = scan.nextLine();
          System.out.println("your Full name is: " + fname);
+
+         scan.close();
     }
        
 }
