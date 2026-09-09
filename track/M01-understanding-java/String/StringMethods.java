@@ -1,4 +1,4 @@
-public class StringMethods {
+class StringMethods{
     public static void main(String[] args) {
         String str = "KodNest Technologies";
         System.out.println(str.length());
