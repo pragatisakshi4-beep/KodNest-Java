@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "track/M01-understanding-java/M02-understanding-java",
+        "track/M01-understanding-java/String",
+        "track/M01-understanding-java/T01-programming-languages-and-java"
+    ]
+}
